@@ -36,8 +36,7 @@ public class AppLivraria {
         livro1.devolver();
         livro1.emprestar("Joao");
         
-        livro1.info();
-        
+        livro1.info();        
     }
     
 }
